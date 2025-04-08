@@ -6,14 +6,6 @@
 
 Junior Web Developer from Poland.
 
-
----
-
-## 🌐 Network
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bub3ns_)  
-<span style="color: red;">(currently unactive)</span>
-
 ---
 
 ## 💻 Tech Skills
