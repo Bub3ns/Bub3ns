@@ -1,4 +1,4 @@
-<p align="center">Bub3ns</p>
+<h1 align="center">Bub3ns</h1>
 
 ---
 
