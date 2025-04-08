@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bub3ns</h1>
-<p align="center">🎯 Junior web developer from Poland</p>
+<p align="center">Bub3ns</p>
 
 ---
 
 ## 👋 About Me
 
-🙂 I'm Bub3ns, a Junior Web Developer from Poland!  
-I like building websites and editing short video clips in my free time.
+Junior Web Developer from Poland.
+
 
 ---
 
@@ -39,15 +38,7 @@ I like building websites and editing short video clips in my free time.
 
 ## 🎨 Design Skills
 
-🎥 Mainly editing short video clips – transitions, cuts, effects, and timing are my jam.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bub3ns&show_icons=true&theme=radical" alt="Bub3ns GitHub stats" />
-</p>
+🎥 Mainly editing short video clips – transitions, cuts, effects
 
 ---
 
@@ -55,4 +46,3 @@ I like building websites and editing short video clips in my free time.
 
 - [SkillIcons](https://github.com/tandpfun/skill-icons)
 - [Devicon](https://devicon.dev/)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
