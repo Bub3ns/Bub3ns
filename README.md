@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-<p> Junior Web Developer from Poland. </p>
+<p> Junior Developer from Poland. </p>
 
 ---
 
